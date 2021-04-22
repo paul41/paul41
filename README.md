@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding & Debugging
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on website development
-- 📫 How to reach me ...
+- 📫 Reach me at https://www.linkedin.com/in/sourav412pgmail/
 
 <!---
 paul41/paul41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
